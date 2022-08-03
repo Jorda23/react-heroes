@@ -20,7 +20,7 @@ export const LoginPages = () => {
 
   return (
    <div className="container mt-5">
-      <h1>login</h1>
+      <h1>Login</h1>
 
       <button 
         className="btn btn-primary"
